@@ -6,9 +6,11 @@ SITENAME = "The Burpy Bear's House"
 SITEURL = ''
 
 # Static path
-STATIC_PATHS = []
+STATIC_PATHS = [
+    'CNAME',
+]
 
-PATH = 'recipes'
+PATH = 'content'
 
 # URL settings
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
