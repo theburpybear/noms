@@ -2,7 +2,7 @@
 from pathlib import Path
 
 AUTHOR = 'The Burpy Bear'
-SITENAME = "The Burpy Bear's House"
+SITENAME = "The Burpy Bear House"
 SITEURL = ''
 
 # Static path
