@@ -10,4 +10,7 @@ isoCode = "en"
 rtl = false
 dateFormat = "January 2 2006"
 description = "Clarice Hong's portofolio"
-author = { headline = "Computational biologist @ MIT" }
+
+[params.author]
+headline = "Computational biologist @ MIT"
+image = "clarice_202107.jpg"

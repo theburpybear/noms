@@ -6,8 +6,6 @@ enableCodeCopy = false
 replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = false
-giteaDefaultServer = "https://git.fsfe.org"
-forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
 layout = "basic"
@@ -22,12 +20,10 @@ showScrollToTop = true
 [homepage]
 layout = "profile"
 showRecent = false
-showRecentItems = 5
 showMoreLink = false
-showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
 
 [article]
 showDate = true
@@ -91,17 +87,3 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
-
-[firebase]
-
-[fathomAnalytics]
-
-[umamiAnalytics]
-
-[selineAnalytics]
-
-[buymeacoffee]
-
-[verification]
-
-[rssnext]
